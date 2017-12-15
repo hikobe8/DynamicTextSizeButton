@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="default_btn_text_size">16sp</dimen>
+    <dimen name="selected_btn_text_size">18sp</dimen>
+    <dimen name="default_btn_image_width">24dp</dimen>
+    <dimen name="default_btn_image_height">24dp</dimen>
+</resources>
